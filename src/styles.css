@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  width: 80%;
+  margin: 0 auto;
+  border: 1px solid black;
+}
+
+.todo-wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 4% auto;
+  max-width: 90%;
+  padding: 0;
+}
